@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<app>
+		<uri>ZOMA01</uri>
+	</app>
+	<auth>
+		<user>admin</user>
+		<scope>SUPER</scope>
+	</auth>
+	<dns>
+		<synch>true</synch>
+		<maxDomainsPerScope>999999</maxDomainsPerScope>
+		<maxRecordsPerDomain>999999</maxRecordsPerDomain>
+	</dns>
+</config>
